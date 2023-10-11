@@ -23,8 +23,8 @@ function Intro() {
     <div>
       <h1>Sarah Romero</h1>
       <p>
-        Junior Frot-end web developer and currently looking for a job. When I am
-        not coding, I love read books and watch movies.
+        Junior Front-end web developer and currently looking for a job. When I
+        am not coding, I love read books and watch movies.
       </p>
     </div>
   );
