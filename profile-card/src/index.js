@@ -24,7 +24,7 @@ function Intro() {
       <h1>Sarah Romero</h1>
       <p>
         Junior Front-end web developer and currently looking for a job. When I
-        am not coding, I love read books and watch movies.
+        am not coding, I love read books, watch movies, and play video games.
       </p>
     </div>
   );
